@@ -13,8 +13,8 @@ This project analyzes sales performance across various product categories and ci
 | **Top Performing City** | Istanbul ($1.3M+) |
 
 ## Project Files
-**[View Full Presentation Slides (PDF)](./research-presentation.pdf)** – Detailed economic research findings.
-**[Download Tableau Workbook (.twbx)](./project-analysis.twbx)** – Interactive dashboard file.
+***[View Full Presentation Slides (PDF)](./research-presentation.pdf)** – Detailed economic research findings.
+***[Download Tableau Workbook (.twbx)](./project-analysis.twbx)** – Interactive dashboard file.
 
 ## Visualizations & Strategic Insights
 1. **Geographic Distribution:** Map analysis identifying Istanbul and Ankara as primary revenue hubs.
