@@ -1,30 +1,30 @@
 # The Impact of Customer Demographics and Discount Rates on Sales
 
-### Dashboard Preview
 ![Dashboard Preview](dashboard-preview.png)
 
-### Project Overview
-This project analyzes sales performance across different product categories and cities in Turkey to understand how customer demographics and discount strategies impact total revenue.
+## Project Overview
+This project analyzes sales performance across various product categories and cities in Turkey. The primary goal is to decipher the relationship between customer demographics, discount strategies, and total revenue using data-driven visualizations.
 
-**Key Metrics:**
-* **Total Revenue:** $4,915,545
-* **Total Quantity Sold:** 11,100 units
-* **Top Performing City:** Istanbul ($1.3M+ in sales)
+### Key Performance Indicators (KPIs)
+| Metric | Value |
+| :--- | :--- |
+| **Total Revenue** | $4,915,545 |
+| **Total Quantity Sold** | 11,100 units |
+| **Top Performing City** | Istanbul ($1.3M+) |
 
-### Project Files
-* **[View Full Presentation Slides (PDF)](./research-presentation.pdf)** - A detailed breakdown of our 8-graph analysis and economic research findings.
-* **[Download Tableau Workbook (.twbx)](./project-analysis.twbx)** - The interactive file containing this dashboard and underlying sheets.
+## Project Files
+**[View Full Presentation Slides (PDF)](./research-presentation.pdf)** – Detailed economic research findings.
+**[Download Tableau Workbook (.twbx)](./project-analysis.twbx)** – Interactive dashboard file.
 
-### Visualizations & Insights
-The dashboard includes 5 key visualizations:
-1.  **Geography:** A map analysis of the Top 10 cities in Turkey, highlighting Istanbul and Ankara as major revenue hubs.
-2.  **Product Categories:** A breakdown of sales by category (Electronics, Home & Garden, etc.) filtered by gender.
-3.  **Time Series:** Revenue trends over time (Jan 2023 - Jan 2024) comparing customer types.
-4.  **Correlation Analysis:** A scatter plot investigating the relationship between Discount Percentage and Total Sales Amount.
+## Visualizations & Strategic Insights
+1. **Geographic Distribution:** Map analysis identifying Istanbul and Ankara as primary revenue hubs.
+2. **Product Segmentation:** Category-wise sales performance filtered by gender demographics.
+3. **Temporal Trends:** Time-series analysis (Jan 2023 - Jan 2024) comparing different customer segments.
+4. **Discount Impact:** A scatter plot analysis identifying the correlation between **Discount Percentage** and **Sales Volume**.
 
-### Tools Used
-* **Tableau:** For creating the interactive dashboard, calculated fields, and map visualizations.
-* **Data Source:** Sales data covering the Turkey region (2023-2024).
+## Tools & Tech Stack
+* **Tableau:** Dashboard design, calculated fields, and geospatial analysis.
+* **Data Source:** Turkey Sales Dataset (2023-2024).
 
 ---
-*Created by Eylül Uysal and collabration with the Statistics Research Group (4 members).*
+**Authors:** Eylül Uysal & The Statistics Research Group (4 members) 
